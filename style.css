@@ -780,9 +780,9 @@ h1:nth-of-type(3) {
         .opening-hours {
             width: 100%;
         }
-        .opening-hours-page{
+        /* .opening-hours-page{
             padding: 245px;
-        }
+        } */
     }
 
     .schedule::after,
@@ -801,7 +801,7 @@ h1:nth-of-type(3) {
         font-size: 1.895em;
     }
     .opening-hours-page{
-        padding: 245px;
+        /* padding: 245px; */
         margin: 30em;
         /* min-height: calc(100vh- 10px); */
     }
